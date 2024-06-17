@@ -7,9 +7,8 @@ Answer the following questions based on your understanding of the installation a
 
  Questions:
 
-1. Installation of VS Code:
-   - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
-
+1.Installation of VS Code:
+ Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 1. Navigate to the Visual Studio Code official website using any web browser, such as Microsoft Edge, Google Chrome, etc. ![alt text](<Screenshot 2024-06-17 204045.png>)
 2. To begin downloading the Visual Studio Code application, click the "Download for Windows" button on the website.
  3. The Visual Studio Code Icon will show up in the downloads folder after the download is complete.
@@ -24,9 +23,9 @@ Answer the following questions based on your understanding of the installation a
 
 
 2. First-time Setup:
-   - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
 
-   There are several configuration adjustments and settings that can be made to the VS Code environment to achieve an efficient coding environment and a number of useful extensions. Here's a guide to help you get started:
+There are several configuration adjustments and settings that can be made to the VS Code environment to achieve an efficient coding environment and a number of useful extensions. Here's a guide to help you get started:
    Initial Configurations and Settings
    1. Settings:
 Make use of cross-platform extension that allows users to sync VS Code settings between different computers. This can be accessed under File and it is available in Preference and then Settings and the last one is Setting Sync.
@@ -80,8 +79,8 @@ Extensions Recommendations: Recommended extensions for particular languages or f
 It shows that, when these settings are set up and suitable extensions are installed, one can work in VS Code and have an optimized coding environment.
 
 
-3. User Interface Overview:
-   - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+ 3. User Interface Overview:
+ Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 
  Visual Studio Code (VS Code) has several parts organized in a friendly and easy-to-understand way that helps the coder complete operations and develop applications. The key elements of the user interface of this software include the Activity Bar, the Side Bar, the Editor Group, and the Status Bar. Here is a detailed explanation of each:
    1.  Activity Bar: The vertical bar on the right has icons representing the major categories or views. If you move your cursor over any of the icons, a short description of the view is provided at the bottom. Tapping an icon opens or collapses the specific Side Bar view. The element on this image is named ‘application bar’ and you could pin additional items, remove them, or change their positions.
@@ -100,7 +99,7 @@ It’s sort of like a video game, where highlighted objects lead to more options
 All these components have their importance in building an effective and flexible development environment in VS Code for the developers of all types.
 
 4. Command Palette:
-   - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
+What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
    
    The ‘Command Palette’ is one of the most important features in VS Code which allows the user to quickly access a number of commands associated with the editor. It enables the user to do certain functions under it without having to search through the menus or memorize shortcuts.
 
